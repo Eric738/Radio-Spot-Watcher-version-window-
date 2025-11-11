@@ -1,0 +1,5 @@
+{
+  "name": "Radio Spot Watcher",
+  "description": "A real-time web application for radio amateurs to monitor, visualize, and analyze DX spots. It provides live spot reception, geographic localization of stations, visualization by band and mode, a personal watchlist, and a feed of recent activities.",
+  "requestFramePermissions": []
+}
